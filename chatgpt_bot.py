@@ -1,8 +1,8 @@
 import openai
 import telebot
 
-openai.api_key = "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"
-bot_token = '6263313761:AAGn5TF27u0JdioU0OReKMSXWTEmh25rB0o'
+openai.api_key = "sk-"
+bot_token = '6263313761:'
 
 # Создаем экземпляр бота
 bot = telebot.TeleBot(bot_token)
